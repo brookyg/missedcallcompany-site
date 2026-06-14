@@ -6,9 +6,9 @@ const tiers = [
   {
     name: "Essential",
     tagline: "For getting every call answered",
-    price: "£500",
+    price: "£399",
     period: "/month",
-    setup: "£1,000 setup",
+    setup: "£499 setup",
     features: [
       "24/7 AI call answering",
       "Enquiry qualification",
@@ -21,9 +21,9 @@ const tiers = [
   {
     name: "Flagship",
     tagline: "Our complete lead-capture system",
-    price: "£750",
+    price: "£699",
     period: "/month",
-    setup: "£1,500 setup",
+    setup: "£750 setup",
     features: [
       "Everything in Essential",
       "Live calendar booking",
@@ -37,9 +37,9 @@ const tiers = [
   {
     name: "Growth",
     tagline: "For clinics ready to scale",
-    price: "Custom",
-    period: "",
-    setup: "Tailored",
+    price: "£1,199",
+    period: "/month",
+    setup: "£1,000+ setup",
     features: [
       "Everything in Flagship",
       "Lead reactivation campaigns",
